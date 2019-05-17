@@ -2,6 +2,7 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 require 'faker'
 
+puts 'loading'
      #=> "Christophe Bartell"
 10.times do
   article = Article.new(
